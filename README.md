@@ -4,4 +4,4 @@
 
 This game supports XBOX controllers, just plug in and play!
 
-In order to run this, Pygame must be installed with a matching version of Python.
+In order to run this, Pygame must be installed with a matching version of Python (at least 3.0).
